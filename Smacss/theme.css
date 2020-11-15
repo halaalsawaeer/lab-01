@@ -1,0 +1,57 @@
+#dad{
+   background-color:#83d6b7 ; 
+}
+#mom{
+    background-color: #ec6262 ;
+}
+aside{
+    background-color:#e1d276 ;
+}
+header {
+    background-color: #99ea86 ;
+}
+#child1{
+    background-color:#e4a8f9  ;
+}
+#child2 {
+    background-color: #2F343A ;
+}
+#child3 {
+    background-color: #717D8C ;
+}
+#child4 {
+    background-color: #BDB69C ;
+}
+footer {
+    background-color: #41AAC4 ;
+}
+
+@media only screen and (max-width: 768px){
+    header{ background-color:   #F3B81C;}
+
+    aside{
+        background-color: #135A8E ;}
+
+    #mom {
+        background-color: #FCECDA  ;
+    }    
+    #dad {
+        background-color: #B6DE58  ;
+    }
+    #child1 {
+        background-color: #DE3354 ;
+    }
+    #child2 {
+        background-color: #111514 ;
+    }
+    #child3 {
+        background-color: #5A3828 ;
+    }
+    #child4 {
+        background-color: #868D01  ;
+    }
+    footer{
+        background-color: #FE7B4E  ;
+    }
+
+}
